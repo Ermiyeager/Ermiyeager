@@ -64,7 +64,8 @@ I design, engineer, and refine digital experiences with a passion for clean code
 - Performance, Accessibility & Clean Code
 
 ## 📫 Let's Connect
-- **GitHub:** (https://github.com/YOUR_USERNAME)
+- **GitHub:** (https://github.com/Ermiyeager
+)
 - **LinkedIn:** [Ermias Lemma](https://linkedin.com/in/ermias-lemma-4a9a65376)
 - **Email:** YOUR_EMAIL
 
